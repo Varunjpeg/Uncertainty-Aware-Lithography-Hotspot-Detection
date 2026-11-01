@@ -1,19 +1,13 @@
 # Uncertainty-Aware Lithography Hotspot Detection on ICCAD-12 Benchmarks
-### Digital Assignment II (Phase 2 Final Submission) — September/October 2026
-**Course:** BEVD402L — AI and Machine Learning for IC  
-**Faculty:** Dr. G. Lakshmi Priya  
-**Slot:** D1+TD1  
-**Group Number:** G12  
-**Institution:** School of Electronics Engineering (SENSE), Vellore Institute of Technology (VIT), Chennai  
 
 ---
 
-## 👥 Group G12 Team Members & Registration Numbers
+##  Group G12 Team Members & Registration Numbers
 | Student Name | Registration Number | Role in Project |
 | :--- | :--- | :--- |
-| **Palash Ashutosh Duragkar** | **24BVD1023** | Literature review, ICCAD data distribution analysis, baseline CNN training |
-| **Varun U** | **24BVD1024** | Phase 2 Lead, uncertainty quantification, three-way decision pipeline, calibration, statistical testing, final report integration |
-| **Subburayalu M** | **24BVD1026** | Explainable AI (Grad-CAM), quantitative XAI metrics, presentation slides, documentation |
+| **Palash Ashutosh Duragkar** | **24BVD1023** | 
+| **Varun U** | **24BVD1024** |
+| **Subburayalu M** | **24BVD1026** | 
 
 ---
 
